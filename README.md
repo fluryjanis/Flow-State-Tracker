@@ -33,7 +33,7 @@
 ## Downloads
 
 - **itch.io:** [Download Flow State Tracker](https://frog1230.itch.io/flow-state-tracker)
-- **SourceForge:** [Download Flow State Tracker](https://sourceforge.net/projects/YOUR-SOURCEFORGE-PROJECT/)
+- **SourceForge:** [Download Flow State Tracker](https://sourceforge.net/projects/flow-state-tracker/)
 - **GitHub:** [Releases](https://github.com/fluryjanis/Flow-State-Tracker/releases)
 
 ## Portfolio
