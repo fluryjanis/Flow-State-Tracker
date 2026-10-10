@@ -2,7 +2,7 @@
 
 10 hours of screen time does not always mean 10 hours of productivity. Flow State Tracker breaks down app and website use, idle time, typing speed, activity, and window switches so you can better understand how you spend your time.
 
-> **Project status:** In development. Store pages and portfolio links below are placeholders; replace them when they are available.
+> **Project status:** In development. Store pages and portfolio links below.
 
 ## Screenshots
 
